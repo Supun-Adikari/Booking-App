@@ -1,1 +1,1 @@
-This is a booking applicaion similat to AirBnb
+This is a booking applicaion similar to AirBnb
